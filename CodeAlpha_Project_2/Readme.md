@@ -84,7 +84,7 @@ Open index.html in your browser, or use the VS Code Live Server extension for a 
 
 ​📸 Screenshots
 
-![Calculator Interface]("images\Calculator.png")
+![Calculator Interface]("images/Calculator.png")
 
 
 👤 Author
