@@ -84,7 +84,7 @@ Open index.html in your browser, or use the VS Code Live Server extension for a 
 
 ​📸 Screenshots
 
-![Calculator Interface]("C:\Users\prati\Documents\GitHub\CodeAlpha_projects\CodeAlpha_Project_2\images\Screenshot 2026-06-23 191137.png")
+![Calculator Interface]("images\Calculator.png")
 
 
 👤 Author
